@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fulya</h1>
 <h3 align="center">Android developer from Turkey</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: fulyaakan@outlook.com</h3>
 <p align="left">
 </p>
 
