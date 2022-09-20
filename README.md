@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fulya</h1>
 <h3 align="center">Android developer from Turkey</h3>
 
-<h3 align="left">● 👩🏻‍💻 I'm currently learning Android Development.</h3>
+<h5 align="left">● 👩🏻‍💻 I'm currently learning Android Development.</h3>
 <p align="left">
 </p>
 
