@@ -4,7 +4,6 @@
 <h4 align="left">● 👩🏻‍💻 I'm currently learning Android Development.</h3>
 <p align="left">
 </p>
-
 <h4 align="left">● 📬 Connect with me: fulyaakan@outlook.com</h3>
 <p align="left">
 </p>
